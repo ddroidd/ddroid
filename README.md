@@ -34,7 +34,7 @@ To get help in how to use or setup **ddroidd**, see documentation and support pa
 
 # source code repositories
 
-Feel free to contribute with any of the << **ddroidd** >> teams on **GitHub**.
+Feel free to contribute to << **ddroidd** >> repositories on: **https://github.com/ddroidd**.
 
 
 # authors and contributors
