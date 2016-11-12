@@ -1,6 +1,6 @@
-# ddroidd
+# << ddroidd >> OS
 
-**ddroidd** is a free operating system for your devices.
+<< **ddroidd** >> is a free operating system for your devices.
 
 An Operating System is the set of basic programs and utilities that make your devices run.
 
@@ -13,9 +13,11 @@ The main goal of **ddroidd** is to keep it fast, simple and working!
 
 # getting started
 
-If you like to start using **ddroidd**, you can easily obtain a copy, and then follow the installation instructions to install it on your specific device.
+If you like to start using **ddroidd**, you can easily obtain a copy of the source code and build it up yourself.
 
-To get help in using or setting up **ddroidd**, see our documentation and support pages.
+Follow the vendor installation instructions to install it on your specific device.
+
+To get help in using or setting up **ddroidd**, see documentation and support pages.
 
 
 # software packages
@@ -37,11 +39,11 @@ To get help in using or setting up **ddroidd**, see our documentation and suppor
 
 # source code repositories
 
-Feel free to contribute to **ddroidd** on **GitHub**.
+Feel free to contribute with << **ddroidd** >> team on **GitHub**.
 
 
 # authors and contributors
 
-**Antonio Cao** << **@burzumishi** >> started **@ddroid** project in **2016**.
+**Antonio Cao** **(@burzumishi)** started << **@ddroid** >> project in **2016**.
 
-_**ddroidd** (2016) by << **@burzumishi** >>_
+_<< **ddroidd** >> (2016) by **(@burzumishi)**_
