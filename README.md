@@ -1,4 +1,4 @@
-# << ddroidd >> OS
+# << ddroidd >>
 
 << **ddroidd** >> is a free operating system for your devices.
 
