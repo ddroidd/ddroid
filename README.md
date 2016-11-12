@@ -39,7 +39,7 @@ Feel free to contribute with any of the << **ddroidd** >> teams on **GitHub**.
 
 # authors and contributors
 
-**Antonio Cao** **@burzumishi** started << **@ddroid** >> project in **2016**.
+**Antonio Cao** **@burzumishi** started << **@ddroidd** >> project in **2016**.
 
 
 _<< **ddroidd** >> 2016 by **@burzumishi**_
